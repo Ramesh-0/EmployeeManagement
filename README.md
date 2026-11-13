@@ -1,8 +1,7 @@
 # Employee Management Portal
 
 A web-based Employee Management Portal
-developed using Python and Flask.
-
+built using Python, Flask and REST API architecture.
 ## Features
 - Employee Registration
 - Employee Search
